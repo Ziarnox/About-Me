@@ -5,7 +5,7 @@
 
 👨‍💻 Podczas tego roku intensywnej nauki, zdobyłem solidne podstawy w JavaScript i Javie, oraz tworzyłem praktyczne projekty, aby wzmocnić moje umiejętności.
 
-💼 Jestem gotowy na kolejny krok w mojej karierze jako Junior Fullstack Developer lub FrontEnd Developer. Chcę wykorzystać moje umiejętności i pasję do programowania do pracy nad ciekawymi projektami i zdobycia nowego doświadczenia w branży IT.
+💼 Jestem gotowy na kolejny krok w mojej karierze jako Junior Fullstack Developer lub Junior FrontEnd Developer. Chcę wykorzystać moje umiejętności i pasję do programowania do pracy nad ciekawymi projektami i zdobycia nowego doświadczenia w branży IT.
 
 🔍 Mimo, że dopiero rozpoczynam swoją karierę zawodową, jestem gotowy na wyzwania i chętny do nauki od doświadczonych programistów oraz wkładania wysiłku w rozwój zespołu.
 
