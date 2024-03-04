@@ -1,14 +1,14 @@
 # Pare-slow-o-mnie
 
 
-👋 Cześć! Jestem Norbert, entuzjastyczny programista z rocznym doświadczeniem zdobytym podczas intensywnego kursu programowania. 🚀
+👋 Hello! I'm Norbert, an enthusiastic programmer with one year of experience gained during an intensive programming course. 🚀
 
-👨‍💻 Podczas tego roku intensywnej nauki, zdobyłem solidne podstawy w JavaScript i Javie, oraz tworzyłem praktyczne projekty, aby wzmocnić moje umiejętności.
+👨‍💻 Throughout this year of intensive learning, I've built a solid foundation in JavaScript and Java, and I've been working on practical projects to strengthen my skills.
 
-💼 Jestem gotowy na kolejny krok w mojej karierze jako Junior Fullstack Developer lub Junior FrontEnd Developer. Chcę wykorzystać moje umiejętności i pasję do programowania do pracy nad ciekawymi projektami i zdobycia nowego doświadczenia w branży IT.
+💼 I'm ready for the next step in my career as a Junior Fullstack Developer or Junior FrontEnd Developer. I want to utilize my skills and passion for programming to work on exciting projects and gain new experience in the IT industry.
 
-🔍 Mimo, że dopiero rozpoczynam swoją karierę zawodową, jestem gotowy na wyzwania i chętny do nauki od doświadczonych programistów oraz wkładania wysiłku w rozwój zespołu.
+🔍 Although I'm just starting my professional career, I'm ready for challenges and eager to learn from experienced developers and contribute to the team's growth.
 
-💡 W pracy jestem punktualny, sumienny i zorganizowany. Zawsze staram się dotrzymywać terminów i podejmować działania, które przynoszą pozytywne rezultaty. Jestem również otwarty na konstruktywną krytykę i gotowy do ciągłego doskonalenia moich umiejętności.
+💡 In work, I'm punctual, diligent, and organized. I always strive to meet deadlines and take actions that yield positive results. I'm also open to constructive criticism and committed to continuously improving my skills.
 
-🚀 Gotowy na rozpoczęcie mojej kariery zawodowej w branży IT i podejmowanie nowych wyzwań. Nie mogę się doczekać, aby móc rozwijać się i przyczynić się do interesujących projektów! 😊
+🚀 Ready to start my professional career in the IT industry and take on new challenges. I can't wait to grow and contribute to exciting projects! 😊
